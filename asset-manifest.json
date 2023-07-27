@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CryptoGeko/static/css/main.d719d8c6.css",
+    "main.js": "/CryptoGeko/static/js/main.f5bb3684.js",
+    "index.html": "/CryptoGeko/index.html",
+    "main.d719d8c6.css.map": "/CryptoGeko/static/css/main.d719d8c6.css.map",
+    "main.f5bb3684.js.map": "/CryptoGeko/static/js/main.f5bb3684.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d719d8c6.css",
+    "static/js/main.f5bb3684.js"
+  ]
+}
